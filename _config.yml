@@ -23,7 +23,7 @@ repository               : "amrilio/amrilio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "linkedin-profile.jpeg"
   name             : "Khoirul Amri"
   pronouns         : # example: "she/her"  
   bio              : "Full-stack SEO, Website & Product Manager, and Data-Driven Marketer"
