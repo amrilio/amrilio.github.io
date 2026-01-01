@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Khoirul Amri | Full-stack SEO, Website & Product Manager, and Data-Driven Marketer "
+title                    : "Khoirul Amri | Full-stack SEO"
 title_separator          : "-"
 name                     : &name "Khoirul Amri"
 description              : &description "Khoirul Amri is a full-stack SEO expert with expertise in technical SEO, content strategy, website and product management, data analytics, and a strong interest in large language models (LLMs). "   # Update this with a general description of your site, this is the default if not overridden by a page
